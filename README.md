@@ -37,6 +37,7 @@ Caro Lorenzo utilizo la branch landing-mejoras, reemplazo la imagen fija.
 
 Petta Franco utilizo la branch buscar-cuidadores, agrego un nuevo archivo html y cambio el boton de buscar cuidadores.
 
+Capturas Petta Franco:
 <img width="589" height="132" alt="1" src="https://github.com/user-attachments/assets/17f8b9aa-ad95-432c-a33f-a2e1c41b8e4d" />
 
 <img width="726" height="45" alt="2" src="https://github.com/user-attachments/assets/41d8352b-2b7f-48b9-ad43-64fed0e4d1b8" />
