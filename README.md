@@ -36,3 +36,9 @@ Organizacion del trabajo:
 Caro Lorenzo utilizo la branch landing-mejoras, reemplazo la imagen fija.
 
 Petta Franco utilizo la branch buscar-cuidadores, agrego un nuevo archivo html y cambio el boton de buscar cuidadores.
+
+<img width="580" height="67" alt="1" src="https://github.com/user-attachments/assets/1c636528-5e1a-40e0-92b1-2eb629f6cd5b" />
+
+<img width="721" height="61" alt="2" src="https://github.com/user-attachments/assets/f9f75a9b-1280-4f82-a113-a8a503a85ebf" />
+
+
