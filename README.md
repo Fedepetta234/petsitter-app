@@ -30,6 +30,7 @@ Petta Federico
 
 Petta Franco
 
+
 Organizacion del trabajo:
 
 Caro Lorenzo utilizo la branch landing-mejoras, reemplazo la imagen fija.
