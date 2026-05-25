@@ -25,9 +25,13 @@ GitHub
 
 Integrantes:
 Caro Lorenzo
+
 Petta Federico
+
 Petta Franco
 
 Organizacion del trabajo:
+
 Caro Lorenzo utilizo la branch landing-mejoras, reemplazo la imagen fija.
+
 Petta Franco utilizo la branch buscar-cuidadores, agrego un nuevo archivo html y cambio el boton de buscar cuidadores.
